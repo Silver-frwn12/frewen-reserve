@@ -51,5 +51,5 @@ The collection is managed by Jonathan Briscoe Morten Frewen DiTuttavilla and has
 ## 📬 Contact
 
 For collaboration, swap integration, or validation:
-- [Your Name / Entity]
-- [Email or secure contact]
+- [Silver Line Worldwide]
+- [jonathanfrewen@bluewin.ch | ch@silverlinefilmsinc.com      ]
