@@ -4,7 +4,7 @@
 
 ---
 
-## 💎 Overview
+## Overview
 
 Frewen Reserve (symbol: `$FRWN`) is a fixed-supply ERC-20 token deployed on the Ethereum blockchain (initially Sepolia Testnet) representing ownership claims in a $1.1 billion heirloom collection of imperial jadeite and rare ruby, secured in London at Asprey.
 
@@ -12,7 +12,7 @@ The collection is managed by Jonathan Briscoe Morten Frewen DiTuttavilla and has
 
 ---
 
-## 🧾 Key Token Info
+## Key Token Info
 
 - **Token Name:** Frewen Reserve  
 - **Symbol:** FRWN  
@@ -24,7 +24,7 @@ The collection is managed by Jonathan Briscoe Morten Frewen DiTuttavilla and has
 
 ---
 
-## 📄 Supporting Documents
+## Supporting Documents
 
 - [Smart Contract – FrewenReserve.sol](./FrewenReserve.sol)
 - [Whitepaper (PDF)](./Frewen_Reserve_whitepaper.pdf)
@@ -33,13 +33,13 @@ The collection is managed by Jonathan Briscoe Morten Frewen DiTuttavilla and has
 
 ---
 
-## 🔗 Etherscan (Sepolia)
+## Etherscan (Sepolia)
 
 - [View Contract on Sepolia Etherscan](https://sepolia.etherscan.io/token/0x79066b12614e71db6c9ae7c1255dfff3ae97ab9c)
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 - Verify and publish contract source code on Etherscan  
 - Launch mainnet deployment (Ethereum or Polygon)  
