@@ -27,9 +27,9 @@ The collection is managed by Jonathan Briscoe Morten Frewen DiTuttavilla and has
 ## 📄 Supporting Documents
 
 - [Smart Contract – FrewenReserve.sol](./FrewenReserve.sol)
-- [Whitepaper (PDF)](./Frewen_Whitepaper.pdf)
-- [Asset Disclosure Packet (PDF)](./FREWEN_COLLECTION.pdf)
-- [Executive Summary (PDF)](./Executive_Summary.pdf)
+- [Whitepaper (PDF)](./Frewen_Reserve_whitepaper.pdf)
+- [Asset Disclosure Packet (PDF)](./FREWEN-COLLECTION.pdf)
+- [Executive Summary (PDF)](./Asset_ExecutiveSummary.pdf)
 
 ---
 
