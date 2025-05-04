@@ -48,7 +48,7 @@ The collection is managed by Jonathan Briscoe Morten Frewen DiTuttavilla and has
 
 ---
 
-## 📬 Contact
+## Contact
 
 For collaboration, swap integration, or validation:
 - [Silver Line Worldwide]
