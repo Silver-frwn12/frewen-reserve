@@ -19,7 +19,7 @@ The collection is managed by Jonathan Briscoe Morten Frewen DiTuttavilla and has
 - **Total Supply:** 1,000,000  
 - **Decimals:** 18  
 - **Deployed Network:** Sepolia (Testnet)  
-- **Contract Address:** `0xfb553caf309467d2ac0138200eb4a28d4887f044`  
+- **Contract Address:** `0x79066B12614E71Db6c9AE7c1255dfFf3aE97ab9c`  
 - **Initial Holder:** `0xaE858aD621FB8A47B4A78d498768cB83d3f61585`
 
 ---
@@ -35,7 +35,7 @@ The collection is managed by Jonathan Briscoe Morten Frewen DiTuttavilla and has
 
 ## 🔗 Etherscan (Sepolia)
 
-- [View Contract on Sepolia Etherscan](https://sepolia.etherscan.io/address/0xfb553caf309467d2ac0138200eb4a28d4887f044)
+- [View Contract on Sepolia Etherscan](https://sepolia.etherscan.io/token/0x79066b12614e71db6c9ae7c1255dfff3ae97ab9c)
 
 ---
 
