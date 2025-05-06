@@ -30,6 +30,7 @@ The collection is managed by Jonathan Briscoe Morten Frewen DiTuttavilla and has
 - [Whitepaper (PDF)](./Frewen_Reserve_whitepaper.pdf)
 - [Asset Disclosure Packet (PDF)](./FREWEN-COLLECTION.pdf)
 - [Executive Summary (PDF)](./Asset_ExecutiveSummary.pdf)
+- [Token Participation Terms](https://gateway.pinata.cloud/ipfs/QmT8f1YgEwXv3jA4dxB...)
 
 ---
 
