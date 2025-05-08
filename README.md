@@ -31,7 +31,7 @@ The collection is managed by Jonathan Briscoe Morten Frewen DiTuttavilla and has
 - [Asset Disclosure Packet (PDF)](./FREWEN-COLLECTION.pdf)
 - [Executive Summary (PDF)](./Asset_ExecutiveSummary.pdf)
 - [Token Participation Terms](./The_Frewen_Reserve_TokenParticipationAgreement.pdf)
-- [Safe Keeping Receipt (PDF)]View on Request.
+- Safe Keeping Receipt View on Request.
 ----
 
 ## Etherscan (Sepolia)
