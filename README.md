@@ -11,8 +11,8 @@ The project is designed to unlock value from illiquid, high-value physical asset
 - **Token Name**: Frewen Reserve
 - **Ticker Symbol**: $FRWN
 - **Blockchain**: Ethereum (Sepolia Testnet | Mainnet deployment pending)
-- **Smart Contract**: [`FrewenReserve.sol`](contracts/FrewenReserve.sol)
-- **Total Supply**: [Insert total token supply]
+- **Smart Contract**: [`FrewenReserve.sol`](contracts/FrewenReserve2.sol)
+- **Total Supply**: [1,000,000]
 - **Issuer**: Silver Line Worldwide
 
 ---
