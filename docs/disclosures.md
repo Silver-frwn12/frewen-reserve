@@ -40,9 +40,13 @@ Participation in FRWN involves financial risk, including but not limited to:
 
 ## 5. Jurisdiction and Regulation
 
-- FRWN tokens are not registered under the U.S. Securities Act or any equivalent foreign laws.
-- The offering is intended strictly for verified accredited investors under Reg D 506(c), or non-U.S. persons under Reg S.
-- This document does not constitute an offer to sell or a solicitation to buy securities in any jurisdiction where such activity is prohibited.
+- FRWN tokens are not registered under the U.S. Securities Act of 1933, the UK Financial Services and Markets Act 2000 (FSMA), or any equivalent foreign securities laws.
+- The offering is structured to comply with private placement exemptions, including:
+  - **Regulation D Rule 506(c)** in the United States (for verified accredited investors only)
+  - **Regulation S** (for non-U.S. persons)
+  - **UK High Net Worth / Sophisticated Investor exemptions** under the FSMA 2000 (Financial Promotion) Order 2005
+- This document does not constitute an offer to sell, or a solicitation to buy, securities in any jurisdiction where such activity is prohibited.
+- Participants are solely responsible for ensuring that participation in FRWN is permissible under local laws applicable to them.
 
 ---
 
