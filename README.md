@@ -1,56 +1,58 @@
-# Frewen Reserve ($FRWN)
+# Frewen Reserve Token ($FRWN)
 
-**A Tokenized Digital Asset Representing the Frewen Collection of Imperial Jadeite and Rare Ruby**
+**FRWN** is an asset-backed digital participation token issued by **Silver Line Worldwide**, built on the Ethereum blockchain. Each FRWN token represents a fractional, subordinated economic interest in a rare and secured collection of imperial jadeite and associated gemstones, held under third-party vault custody.
 
----
-
-## Overview
-
-Frewen Reserve (symbol: `$FRWN`) is a fixed-supply ERC-20 token deployed on the Ethereum blockchain (initially Sepolia Testnet) representing ownership claims in a $1.144 billion heirloom collection of imperial jadeite and rare ruby, secured in London at Asprey.
-
-The collection is managed by Jonathan Briscoe Morten Frewen DiTuttavilla and has been independently appraised and cataloged.
+The project is designed to unlock value from illiquid, high-value physical assets and enable structured participation in global monetization events and collateral enhancement strategies.
 
 ---
 
-## Key Token Info
+## ⚙️ Token Overview
 
-- **Token Name:** Frewen Reserve  
-- **Symbol:** FRWN  
-- **Total Supply:** 1,000,000  
-- **Decimals:** 18  
-- **Deployed Network:** Sepolia (Testnet)  
-- **Contract Address:** `0xb212cE61839A4b43063597032505061B165e8C38`  
-- **Initial Holder:** `0xaE858aD621FB8A47B4A78d498768cB83d3f61585`
-
----
-
-## Supporting Documents
-
-- [Smart Contract – FrewenReserve.sol](./FrewenReserve2.sol)
-- [Whitepaper (PDF)](./Frewen_Reserve_whitepaper.pdf)
-- [Asset Disclosure Packet (PDF)](./FREWEN-COLLECTION.pdf)
-- [Executive Summary (PDF)](./Asset_ExecutiveSummary.pdf)
-- [Token Participation Terms](./The_Frewen_Reserve_TokenParticipationAgreement.pdf)
-- Safe Keeping Receipt View on Request.
-----
-
-## Etherscan (Sepolia)
-
-- [View Contract on Sepolia Etherscan](https://sepolia.etherscan.io/token/0xb212cE61839A4b43063597032505061B165e8C38)
+- **Token Name**: Frewen Reserve
+- **Ticker Symbol**: $FRWN
+- **Blockchain**: Ethereum (Sepolia Testnet | Mainnet deployment pending)
+- **Smart Contract**: [`FrewenReserve.sol`](contracts/FrewenReserve.sol)
+- **Total Supply**: [Insert total token supply]
+- **Issuer**: Silver Line Worldwide
 
 ---
 
-## Next Steps
+## 🧩 Key Use Cases
 
-- Verify and publish contract source code on Etherscan  
-- Launch mainnet deployment (Ethereum or Polygon)  
-- Secure swap desk onboarding  
-- Finalize cold wallet and custodial frameworks
+- **Collateral Enhancement**: FRWN tokens may be pledged to lenders as third-party collateral for credit-enhancing undercollateralized loans.
+- **Trade Finance Participation**: Portions of the token supply support structured trade platforms and institutional strategies.
+- **Yield Sharing**: Token holders may receive distributions from monetization proceeds, subordinated to any senior claims on the underlying assets.
 
 ---
 
-## Contact
+## 📄 Available Documentation
 
-For collaboration, swap integration, or validation:
-- [Silver Line Worldwide]
-- [jonathanfrewen@bluewin.ch | ch@silverlinefilmsinc.com      ]
+| Document | Description |
+|----------|-------------|
+| [`executive-summary.pdf`](docs/executive-summary.pdf) | High-level overview of FRWN, asset backing, and use cases |
+| [`token-participation-terms.pdf`](docs/token-participation-terms.pdf) | Summary of rights, terms, and disclaimers |
+| [`frwn-overview.pdf`](docs/frwn-overview.pdf) | Public-facing outline of token logic and asset relationship |
+| [`disclosures.md`](docs/disclosures.md) | Important notices about risk, subordination, and legal structure |
+| [`confidential-documents.md`](docs/confidential-documents.md) | Index of sensitive documents available upon request |
+
+---
+
+## 🔐 Confidential Access
+
+The following materials are available to qualified parties under NDA or upon verification of interest:
+
+- Asset custody (SKR summary)
+- Third-party appraisal
+- Legal structuring opinions
+- Vault documentation
+- Trade platform commitments
+
+📩 Request access: **compliance@silverlinefilmsinc.com**
+
+---
+
+## ⚠️ Legal Notice
+
+FRWN is a digital representation of subordinated economic rights and does not confer direct ownership or title to the underlying physical assets. This repository is for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities. Participation is restricted to qualified parties under applicable securities exemptions.
+
+© 2025 Silver Line Worldwide. All rights reserved.
