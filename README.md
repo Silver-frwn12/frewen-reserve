@@ -29,7 +29,7 @@ The project is designed to unlock value from illiquid, high-value physical asset
 
 | Document | Description |
 |----------|-------------|
-| [`executive-summary.pdf`](docs/executive-summary.pdf) | High-level overview of FRWN, asset backing, and use cases |
+| [`executive-summary.pdf`](docs/Executive-Summary.pdf) | High-level overview of FRWN, asset backing, and use cases | 
 | [`token-participation-terms.pdf`](docs/The_Frewen_Reserve_TokenParticipationAgreement.pdf) | Summary of rights, terms, and disclaimers |
 | [`frwn-overview.pdf`](docs/frwn-overview.pdf) | Public-facing outline of token logic and asset relationship |
 | [`disclosures.md`](docs/disclosures.md) | Important notices about risk, subordination, and legal structure |
